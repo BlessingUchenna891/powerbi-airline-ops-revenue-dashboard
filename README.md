@@ -1,5 +1,9 @@
 # powerbi-airline-ops-revenue-dashboard
 
+![Cover image showing the multi-page structure of the Power BI report.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/commit/7274f77800b59e7af6d9a43c8e42e72849914878)
+
+***
+
 **PROJECT OVERVIEW**
 
 This Power BI solution was developed as a comprehensive case study to address the challenge of quantifying the operational and financial impact of flight delays within the airline industry. The project links key performance indicators (KPIs) like promptness and resource consumption directly to revenue performance.
