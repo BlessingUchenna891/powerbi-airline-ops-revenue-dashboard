@@ -11,4 +11,12 @@ Impact Analysis: Determine which high-revenue flight routes are most severely im
 
 **Technical Solution & Dashboard Pages**
 The solution is structured across multiple linked pages to provide a seamless analytical workflow:
- a.** Executive Overview Dasboards (Page 1 & 2):** They collectively present a logical flow of information for a senior leader. They effectively separate the Performance Status (Page 1) from the Revenue and Failure Breakdown (Page 2).
+ **a.** **Executive Overview Dasboards (Page 1 & 2):** They collectively present a logical flow of information for a senior leader. They effectively separate the Performance Status (Page 1) from the Revenue and Failure Breakdown (Page 2).
+Here is a breakdown of what each page entails:
+ **1.** **Executive Overview (Page 1)**
+ **Focus: Performance Status, Trend, and Financial Volume:** This page is designed to give the executive an immediate answer to three questions: What is our current status? Is it getting better or worse? Where is the money coming from?
+ Component,Entailment / Key Insight
+KPIs (Top Cards),"Total Passengers (10K), Total Revenue ($489K), On-Time Rate (15%), Delay Rate (85%). These establish the current volume and the critical failure status instantly."
+Line Chart,"Passengers vs Revenue by Month. (If chronologically fixed) This chart would show the trend—likely a decrease—in both metrics over time, indicating worsening business health."
+Bar Chart,"Total Revenue by Route. This prioritizes the financial importance of each route, showing which routes generate the most money (Lagos → PortHarcourt) and therefore represent the highest risk if operations fail."
+Summary Box,"Provides a concise narrative, summarizing the high revenue status against the low promptness status."
