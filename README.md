@@ -19,6 +19,7 @@ The solution is structured across multiple linked pages to provide a seamless an
 **Detailed Analysis (Operations Performance 3 (Page 6)):** Provides transactional tables with conditional formatting to allow users to drill down to individual flight performance, revenue groups, and delay severity levels.
 
 **SKILLS DEMONSTRATED**
+
 **Power BI Desktop:** End-to-end report design and development.
 
 **Data Modeling & DAX:** Creation of a robust model, including necessary time intelligence columns and calculated measures (e.g., On-Time Rate, Delay Status, Delay Category, Revenue Group etc.).
