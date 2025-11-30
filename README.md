@@ -11,7 +11,6 @@ Impact Analysis: Determine which high-revenue flight routes are most severely im
 
 **Technical Solution & Dashboard Pages**
 The solution is structured across multiple linked pages to provide a seamless analytical workflow:
-
 **a.** **Executive Overview Dasboards (Page 1 & 2):** They collectively present a logical flow of information for a senior leader. They effectively separate the Performance Status (Page 1) from the Revenue and Failure Breakdown (Page 2).
 Here is a breakdown of what each page entails:
  **1.** **Executive Overview (Page 1)**
