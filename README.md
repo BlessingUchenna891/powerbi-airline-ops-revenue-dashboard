@@ -12,6 +12,8 @@ Impact Analysis: Determine which high-revenue flight routes are most severely im
 **TECHNICAL SOLUTIONS AND DASHBOARD PAGES**
 The solution is structured across multiple linked pages to provide a seamless analytical workflow:
 
+**Executive Overview dashboards (2 pages)** designed to work together, presenting a logical flow of information for a senior leader. They effectively separate the Performance Status (Page 1) from the Revenue and Failure Breakdown (Page 2).
+
 **Operations Performance (Executive View):** Focuses on high-impact KPIs (e.g., 15% On-Time Rate, 25.38 AVG Delay mins) and uses a stacked bar chart to instantly diagnose Operational issues as the dominant cause of delays.
 
 **Revenue Performance (Page 3):** Links operational metrics to financial results. Key features include tracking Total Revenue, AVG Revenue, and Fuel Used. The page features a critical visual showing AVG Delay (mins) by Route, highlighting high-delay routes that threaten revenue streams (e.g., Abuja-Lagos).
