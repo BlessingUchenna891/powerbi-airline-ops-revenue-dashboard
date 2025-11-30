@@ -16,5 +16,5 @@ The solution is structured across multiple linked pages to provide a seamless an
 Here is a breakdown of what each page entails:
 
  **1.** **Executive Overview (Page 1) Focus: Performance Status, Trend, and Financial Volume:** This page is designed to give the executive an immediate answer to three questions: What is our current status? Is it getting better or worse? Where is the money coming from?
-The KPIs (Total Passengers (10K), Total Revenue ($489K), On-Time Rate (15%), Delay Rate (85%)) establish the current volume and the critical failure status instantly.
-The Line Chart "Passengers vs Revenue by Month", shows the trend—likely a decrease—in both metrics over time, indicating worsening business health.
+**The KPIs (Total Passengers (10K), Total Revenue ($489K), On-Time Rate (15%), Delay Rate (85%))** establish the current volume and the critical failure status instantly.
+**The Line Chart "Passengers vs Revenue by Month"**, shows the trend—likely a decrease—in both metrics over time, indicating worsening business health.
