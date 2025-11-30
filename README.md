@@ -5,8 +5,11 @@
 This Power BI solution was developed as a comprehensive case study to address the challenge of quantifying the operational and financial impact of flight delays within the airline industry. The project links key performance indicators (KPIs) like promptness and resource consumption directly to revenue performance.
 
 **KEY OBJECTIVES**
+
 Diagnosis: Accurately identify the specific root causes of flight delays (e.g., Operational, Technical, Weather).
+
 Tracking: Monitor the critical trend of On-Time Rate over time to assess management intervention effectiveness.
+
 Impact Analysis: Determine which high-revenue flight routes are most severely impacted by delays, enabling data-driven risk management.
 
 **TECHNICAL SOLUTIONS AND DASHBOARD PAGES**
@@ -14,13 +17,23 @@ The solution is structured across multiple linked pages to provide a seamless an
 
 **Executive Overview dashboards (2 pages)** designed to work together, presenting a logical flow of information for a senior leader. They effectively separate the Performance Status (Page 1) from the Revenue and Failure Breakdown (Page 2).
 
-**Operations Performance (Executive View):** Focuses on high-impact KPIs (e.g., 15% On-Time Rate, 25.38 AVG Delay mins) and uses a stacked bar chart to instantly diagnose Operational issues as the dominant cause of delays.
+**Operations Performance:** Focuses on high-impact KPIs (e.g., 15% On-Time Rate, 25.38 AVG Delay mins) and uses a stacked bar chart to instantly diagnose Operational issues as the dominant cause of delays.
 
 **Revenue Performance (Page 3):** Links operational metrics to financial results. Key features include tracking Total Revenue, AVG Revenue, and Fuel Used. The page features a critical visual showing AVG Delay (mins) by Route, highlighting high-delay routes that threaten revenue streams (e.g., Abuja-Lagos).
 
 **Detailed Analysis (Operations Performance 3 (Page 6)):** Provides transactional tables with conditional formatting to allow users to drill down to individual flight performance, revenue groups, and delay severity levels.
 
-**SKILLS DEMONSTRATED**
+**Data Modeling & UX:** Ensured data integrity by creating necessary time intelligence columns (Month Num) to correctly sort time-series visuals chronologically.
+
+**RESULTS & DEMONSTRATED IMPACTS**
+
+**1. Actionable Intelligence:** Provided clear data that allows management to shift focus from merely observing delays to prioritizing procedure review specifically in the Operational and Technical departments.
+
+**2. Risk Management:** Enabled the business to quantify the risk of operational failure on a route-by-route basis, informing resource allocation and scheduling decisions.
+
+**3.Technical Proficiency:** Showcases advanced skills in DAX, Data Modeling, Waterfall charts, and Dual-Axis visualization for effective business storytelling.
+
+**SKILLS & TECHNIUES DEMONSTRATED**
 
 **Power BI Desktop:** End-to-end report design and development.
 
