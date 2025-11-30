@@ -1,24 +1,33 @@
 # powerbi-airline-ops-revenue-dashboard
 
-**Project Overview**
+**PROJECT OVERVIEW**
 
 This Power BI solution was developed as a comprehensive case study to address the challenge of quantifying the operational and financial impact of flight delays within the airline industry. The project links key performance indicators (KPIs) like promptness and resource consumption directly to revenue performance.
 
-**Key Objectives**
+**KEY OBJECTIVES**
 Diagnosis: Accurately identify the specific root causes of flight delays (e.g., Operational, Technical, Weather).
 Tracking: Monitor the critical trend of On-Time Rate over time to assess management intervention effectiveness.
 Impact Analysis: Determine which high-revenue flight routes are most severely impacted by delays, enabling data-driven risk management.
 
-**Technical Solution & Dashboard Pages**
+**TECHNICAL SOLUTIONS AND DASHBOARD PAGES**
 The solution is structured across multiple linked pages to provide a seamless analytical workflow:
 
-**a.** **Executive Overview Dasboards (Page 1 & 2):** They collectively present a logical flow of information for a senior leader. They effectively separate the Performance Status (Page 1) from the Revenue and Failure Breakdown (Page 2).
-Here is a breakdown of what each page entails:
+**Operations Performance (Executive View):** Focuses on high-impact KPIs (e.g., 15% On-Time Rate, 25.38 AVG Delay mins) and uses a stacked bar chart to instantly diagnose Operational issues as the dominant cause of delays.
 
- **1.** **Executive Overview (Page 1) Focus: Performance Status, Trend, and Financial Volume.** 
-This page is designed to give the executive an immediate answer to three questions: What is our current status? Is it getting better or worse? Where is the money coming from?
-**The KPIs (Total Passengers (10K), Total Revenue ($489K), On-Time Rate (15%), Delay Rate (85%))** establish the current volume and the critical failure status instantly.
-**The Line Chart (Passengers vs Revenue by Month)**, shows the trend—likely a decrease—in both metrics over time, indicating worsening business health.
-**The Bar Chart (Total Revenue by Route)** prioritizes the financial importance of each route, showing which routes generate the most money (Lagos $\to$ PortHarcourt) and therefore represent the highest risk if operations fail.
+**Revenue Performance (Page 3):** Links operational metrics to financial results. Key features include tracking Total Revenue, AVG Revenue, and Fuel Used. The page features a critical visual showing AVG Delay (mins) by Route, highlighting high-delay routes that threaten revenue streams (e.g., Abuja-Lagos).
 
-**2. Executive Overview 2 (Page 2) Focus: Route Revenue Breakdown and Categorical Failure Types.**
+**Detailed Analysis (Operations Performance 3 (Page 6)):** Provides transactional tables with conditional formatting to allow users to drill down to individual flight performance, revenue groups, and delay severity levels.
+
+**SKILLS DEMONSTRATED**
+**Power BI Desktop:** End-to-end report design and development.
+
+**Data Modeling & DAX:** Creation of a robust model, including necessary time intelligence columns and calculated measures (e.g., On-Time Rate, Delay Status, Delay Category, Revenue Group etc.).
+
+**Visualization:** Advanced use of Dual-Axis Charts (Line/Column), Waterfall Charts, and effective use of color and conditional formatting for business impact.
+
+**Data Storytelling:** Designing a logical report flow from high-level summary $\rightarrow$ root cause analysis $\rightarrow$ financial consequence.
+
+📥 **TO VIEW THE REPORT**
+The fully interactive Power BI Desktop file is available for download in this repository:
+
+
