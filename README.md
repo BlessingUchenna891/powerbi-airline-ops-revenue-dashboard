@@ -16,6 +16,12 @@ Tracking: Monitor the critical trend of On-Time Rate over time to assess managem
 
 Impact Analysis: Determine which high-revenue flight routes are most severely impacted by delays, enabling data-driven risk management.
 
+**SITUATION & PROBLEM**
+
+**The Goal:** Design a comprehensive performance dashboard to help airline management monitor flight promptness, identify root causes of delays, and measure the financial impact of operational issues.
+
+**The Challenge:** Data was siloed; there was no clear, unified view to connect the high-level 85% Delay Rate to the specific routes, causes, and revenue effects.
+
 **TECHNICAL SOLUTIONS AND DASHBOARD PAGES**
 The solution is structured across multiple linked pages to provide a seamless analytical workflow:
 
@@ -25,11 +31,11 @@ The solution is structured across multiple linked pages to provide a seamless an
 
 **Operations Performance:** Focuses on high-impact KPIs (e.g., 15% On-Time Rate, 25.38 AVG Delay mins) and uses a stacked bar chart to instantly diagnose Operational issues as the dominant cause of delays.
 
-**Detailed Analysis (Operations Performance 3 (Page 5)):** Provides transactional tables with conditional formatting to allow users to drill down to individual flight performance, revenue groups, and delay severity levels.
-
 **Revenue Performance (Page 6):** Links operational metrics to financial results. Key features include tracking Total Revenue, AVG Revenue, and Fuel Used. The page features a critical visual showing AVG Delay (mins) by Route, highlighting high-delay routes that threaten revenue streams (e.g., Abuja-Lagos).
 
-**Data Modeling & UX:** Ensured data integrity by creating necessary time intelligence columns (Month Num) to correctly sort time-series visuals chronologically.
+**Detailed Analysis (Operations Performance 3 (Page 5)):** Provides transactional tables with conditional formatting to allow users to drill down to individual flight performance, revenue groups, and delay severity levels.
+
+**Data Modeling & UX:** I ensured data integrity by creating necessary time intelligence columns (Month Num) to correctly sort time-series visuals chronologically.
 
 **RESULTS & DEMONSTRATED IMPACTS**
 
@@ -43,11 +49,11 @@ The solution is structured across multiple linked pages to provide a seamless an
 
 **Power BI Desktop:** End-to-end report design and development.
 
-**Data Modeling & DAX:** Creation of a robust model, including necessary columns and calculated measures (e.g., On-Time Rate, Delay Status, Delay Category, Revenue Group etc.).
+**Data Modeling & DAX:** I leveraged DAX to build robust measures, including complex logic for the On-Time Rate (15%), On-Time Status, Delay Rate, Top Delayed Route, Top Revenue Route, and conditional logic for classifying delays into Severe, Moderate, and Minor categories, revenue into High, Medium and Low Revenue, derived On-Time Status (Good/Bad) etc.
 
-**Visualization:** Advanced use of Dual-Axis Charts (Line/Column), Waterfall Charts, and effective use of color and conditional formatting for business impact.
+**Visualization:** I utilized advanced visualization techniques, including Dual-Axis Charts (Line/Column) to compare passengers vs. revenue yield, and Waterfall Charts to clearly isolate route revenue contribution. I also applied conditional formatting to instantly highlight operational failure (Red for 85% Delay Rate)
 
-**Data Storytelling:** Designing a logical report flow from high-level summary $\rightarrow$ root cause analysis $\rightarrow$ financial consequence.
+**Data Storytelling:** I designed a logical report flow from Executive Summary $\to$ Diagnosis $\to$ Business Impact.
 
 **ANALYTICAL WORKFLOW (The Walkthrough Images)**
 
