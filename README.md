@@ -62,4 +62,4 @@ This page immediately assesses the health of the operation, establishing the cri
 
 **2. Operational Detail and Failure Classification (Image B)**
 The detailed table view provides analysts the ability to drill down into the transactional data, identifying specific flights, calculating delay severity, and linking delays to revenue groups.
-![Screenshot of the detailed Operations Performance (page 5) table with color-coded severity.](URL_TO_IMAGE_B)
+![Screenshot of the detailed Operations Performance (page 5) table with color-coded severity.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Detailed-Operations-Performance.png)
