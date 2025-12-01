@@ -20,7 +20,7 @@ Impact Analysis: Determine which high-revenue flight routes are most severely im
 The solution is structured across multiple linked pages to provide a seamless analytical workflow:
 
 **Executive Overview dashboards (2 pages)** designed to work together, presenting a logical flow of information for a senior leader. They effectively separate the Performance Status (Page 1) from the Revenue and Failure Breakdown (Page 2).
-![Screenshot of Executive Overview (page 1) showing the trend line and stacked bar chart for delay reasons.](URL_TO_IMAGE_A)
+![Screenshot of Executive Overview (pa) showing the trend line and column chart for performance status](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Executive-Overview-page1.png)
 
 **Operations Performance:** Focuses on high-impact KPIs (e.g., 15% On-Time Rate, 25.38 AVG Delay mins) and uses a stacked bar chart to instantly diagnose Operational issues as the dominant cause of delays.
 
