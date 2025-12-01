@@ -59,4 +59,4 @@ The fully interactive Power BI Desktop file is available for download in this re
 
 **1. Executive Status and Trend Analysis (Image A)**
 This page immediately assesses the health of the operation, establishing the critical decline in On-Time Rate and diagnosing the dominant root cause.
-![Screenshot of Operations Performance 2 showing the trend line and stacked bar chart for delay reasons.](URL_TO_IMAGE_A)
+![Screenshot of Operations Performance 2 showing the trend line and stacked bar chart for delay reasons.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Operations-Performance-2.png)
