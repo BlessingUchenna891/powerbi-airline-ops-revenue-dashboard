@@ -23,9 +23,9 @@ The solution is structured across multiple linked pages to provide a seamless an
 
 **Operations Performance:** Focuses on high-impact KPIs (e.g., 15% On-Time Rate, 25.38 AVG Delay mins) and uses a stacked bar chart to instantly diagnose Operational issues as the dominant cause of delays.
 
-**Revenue Performance (Page 3):** Links operational metrics to financial results. Key features include tracking Total Revenue, AVG Revenue, and Fuel Used. The page features a critical visual showing AVG Delay (mins) by Route, highlighting high-delay routes that threaten revenue streams (e.g., Abuja-Lagos).
+**Detailed Analysis (Operations Performance 3 (Page 5)):** Provides transactional tables with conditional formatting to allow users to drill down to individual flight performance, revenue groups, and delay severity levels.
 
-**Detailed Analysis (Operations Performance 3 (Page 6)):** Provides transactional tables with conditional formatting to allow users to drill down to individual flight performance, revenue groups, and delay severity levels.
+**Revenue Performance (Page 6):** Links operational metrics to financial results. Key features include tracking Total Revenue, AVG Revenue, and Fuel Used. The page features a critical visual showing AVG Delay (mins) by Route, highlighting high-delay routes that threaten revenue streams (e.g., Abuja-Lagos).
 
 **Data Modeling & UX:** Ensured data integrity by creating necessary time intelligence columns (Month Num) to correctly sort time-series visuals chronologically.
 
