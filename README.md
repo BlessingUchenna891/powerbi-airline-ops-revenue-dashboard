@@ -6,7 +6,7 @@
 
 **PROJECT OVERVIEW**
 
-This Power BI solution was developed as a comprehensive case study to address the challenge of quantifying the operational and financial impact of flight delays within the airline industry. The project links key performance indicators (KPIs) like promptness and resource consumption directly to revenue performance.
+This Power BI solution is a mock project I developed as a comprehensive case study to address the challenge of quantifying the operational and financial impact of flight delays within the airline industry (Valuejet). The project links key performance indicators (KPIs) like promptness and resource consumption directly to revenue performance.
 
 **KEY OBJECTIVES**
 
@@ -39,7 +39,7 @@ The solution is structured across multiple linked pages to provide a seamless an
 
 **RESULTS & DEMONSTRATED IMPACTS**
 
-**1. Actionable Intelligence:** Provided clear data that allows management to shift focus from merely observing delays to prioritizing procedure review specifically in the Operational and Technical departments.
+**1. Actionable Intelligence:** Provided clear data that reduces time spent on data collection and allows management to immediately shift focus from merely observing delays to prioritizing procedure review specifically in the Operational and Technical departments.
 
 **2. Risk Management:** Enabled the business to quantify the risk of operational failure on a route-by-route basis, informing resource allocation and scheduling decisions.
 
