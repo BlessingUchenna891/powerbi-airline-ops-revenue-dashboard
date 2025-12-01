@@ -43,16 +43,11 @@ The solution is structured across multiple linked pages to provide a seamless an
 
 **Power BI Desktop:** End-to-end report design and development.
 
-**Data Modeling & DAX:** Creation of a robust model, including necessary time intelligence columns and calculated measures (e.g., On-Time Rate, Delay Status, Delay Category, Revenue Group etc.).
+**Data Modeling & DAX:** Creation of a robust model, including necessary columns and calculated measures (e.g., On-Time Rate, Delay Status, Delay Category, Revenue Group etc.).
 
 **Visualization:** Advanced use of Dual-Axis Charts (Line/Column), Waterfall Charts, and effective use of color and conditional formatting for business impact.
 
 **Data Storytelling:** Designing a logical report flow from high-level summary $\rightarrow$ root cause analysis $\rightarrow$ financial consequence.
-
-📥 **TO VIEW THE REPORT**
-
-The fully interactive Power BI Desktop file is available for download in this repository:
-[Download the Interactive Power BI Dashboard (.pbix)](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Airline-Operations-Performance-Analysis-for%20ValueJet-(Jan%20to%20Mar)-Mock%20Project.pbix)
 
 **ANALYTICAL WORKFLOW (The Walkthrough Images)**
 
@@ -67,4 +62,9 @@ The detailed table view provides analysts the ability to drill down into the tra
 **3. Financial and Risk Assessment (Image C)**
 This final page links operational failure directly to business cost and revenue risk, highlighting the financial metrics and identifying which high-revenue routes are suffering the highest average delays.
 
-![Screenshot of the Revenue Performance Dashboard linking revenue and AVG delay by route.](URL_TO_IMAGE_C)
+![Screenshot of the Revenue Performance Dashboard linking revenue and AVG delay by route.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Revenue-Performance.png)
+
+📥 **TO VIEW THE REPORT**
+
+The fully interactive Power BI Desktop file is available for download in this repository:
+[Download the Interactive Power BI Dashboard (.pbix)](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Airline-Operations-Performance-Analysis-for%20ValueJet-(Jan%20to%20Mar)-Mock%20Project.pbix)
