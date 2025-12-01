@@ -21,7 +21,7 @@ The solution is structured across multiple linked pages to provide a seamless an
 
 **Executive Overview dashboards (2 pages)** designed to work together, presenting a logical flow of information for a senior leader. They effectively separate the Performance Status (Page 1) from the Revenue and Failure Breakdown (Page 2).
 ![Screenshot of Executive Overview (page 1) showing the trend line and column chart for performance status](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Executive-Overview-page1.png)
-![Screenshot of Operations Performance 2 showing the trend line and stacked bar chart for delay reasons.](URL_TO_IMAGE_A)
+![Screenshot of Executive Overview (page 2) showing 2 stacked bar charts presenting Revenue distribution by route and categories of delay in the airline.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Executive-Overview-Page2.png)
 
 **Operations Performance:** Focuses on high-impact KPIs (e.g., 15% On-Time Rate, 25.38 AVG Delay mins) and uses a stacked bar chart to instantly diagnose Operational issues as the dominant cause of delays.
 
