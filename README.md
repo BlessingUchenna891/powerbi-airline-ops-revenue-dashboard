@@ -62,13 +62,11 @@ This page immediately assesses the health of the operation, establishing the cri
 
 **2. Operational Detail and Failure Classification (Image B)**
 The detailed table view provides analysts the ability to drill down into the transactional data, identifying specific flights, calculating delay severity, and linking delays to revenue groups.
-![Screenshot of the detailed Operations Performance (page 5) table with color-coded severity.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Detailed-Operations-Performance.png)
-
+![Screenshot of the detailed Operations Performance (page 5) table with color-coded severity.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Detailed-Operations-Performance-(page%205).png)
 **3. Financial and Risk Assessment (Image C)**
 This final page links operational failure directly to business cost and revenue risk, highlighting the financial metrics and identifying which high-revenue routes are suffering the highest average delays.
 
 ![Screenshot of the Revenue Performance Dashboard linking revenue and AVG delay by route.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Revenue-Performance.png)
-
 📥 **TO VIEW THE REPORT**
 
 The fully interactive Power BI Desktop file is available for download in this repository:
