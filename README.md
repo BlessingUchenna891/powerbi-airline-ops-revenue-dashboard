@@ -68,11 +68,11 @@ The detailed table view provides analysts the ability to drill down into the tra
 This final page links operational failure directly to business cost and revenue risk, highlighting the financial metrics and identifying which high-revenue routes are suffering the highest average delays.
 ![Screenshot of the Revenue Performance Dashboard linking revenue and AVG delay by route.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Revenue-Performance.png)
 
-📊 **Dataset File**
+📊 **DATASET FILE**
 
 This analysis was performed on a synthesized dataset detailing airline flight performance metrics, including passenger volume, revenue, and classified delay reasons (Operational, Technical, Weather). The raw data was initially cleaned and transformed using Power Query within Power BI to ensure data integrity and create necessary time dimension columns and date table.
 
-[Download the Raw Flight Performance Dataset (.csv or .xlsx)](PASTE_THE_COPIED_URL_HERE)
+[Download the Raw Flight Performance Dataset (.xlsx)](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Flight_Data.xlsx)
 
 ***
 
