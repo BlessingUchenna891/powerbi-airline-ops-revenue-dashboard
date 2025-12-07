@@ -4,6 +4,13 @@
 
 ***
 
+**Full Case Study Documentation**
+
+For a deep dive into the business challenge, technical methodology (DAX implementation), and actionable insights, please download the complete analysis document
+[Download the full PDF Case Study](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Case%20Study%20-%20AIRLINE%20OPERATIONS%20PERFORMANCE%20ANALYSIS.pdf)
+
+***
+
 **PROJECT OVERVIEW**
 
 This Power BI solution is a mock project I developed as a comprehensive case study to address the challenge of quantifying the operational and financial impact of flight delays within the airline industry (Valuejet). The project links key performance indicators (KPIs) like promptness and resource consumption directly to revenue performance.
