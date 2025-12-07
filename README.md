@@ -1,6 +1,6 @@
 # powerbi-airline-ops-revenue-dashboard
 
-![Cover image showing the multi-page structure of the Power BI report.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Cover-hero-shot.png)
+![Cover image showing the multi-page structure of the Power BI report.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Cover%20Hero%20Shot.png)
 
 ***
 
@@ -26,8 +26,8 @@ Impact Analysis: Determine which high-revenue flight routes are most severely im
 The solution is structured across multiple linked pages to provide a seamless analytical workflow:
 
 **Executive Overview dashboards (2 pages)** designed to work together, presenting a logical flow of information for a senior leader. They effectively separate the Performance Status (Page 1) from the Revenue and Failure Breakdown (Page 2).
-![Screenshot of Executive Overview (page 1) showing the trend line and column chart for performance status](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Executive-overview-1.png)
-![Screenshot of Executive Overview (page 2) showing 2 stacked bar charts presenting Revenue distribution by route and categories of delay in the airline.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Executive-overview-2.png)
+![Screenshot of Executive Overview (page 1) showing the trend line and column chart for performance status](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/OPS-Executive%20Overview%201.png)
+![Screenshot of Executive Overview (page 2) showing 2 stacked bar charts presenting Revenue distribution by route and categories of delay in the airline.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/OPS-Executive%20Overview%202.png)
 **Operations Performance:** Focuses on high-impact KPIs (e.g., 15% On-Time Rate, 25.38 AVG Delay mins) and uses a stacked bar chart to instantly diagnose Operational issues as the dominant cause of delays.
 
 **Revenue Performance (Page 6):** Links operational metrics to financial results. Key features include tracking Total Revenue, AVG Revenue, and Fuel Used. The page features a critical visual showing AVG Delay (mins) by Route, highlighting high-delay routes that threaten revenue streams (e.g., Abuja-Lagos).
@@ -66,7 +66,7 @@ The detailed table view provides analysts the ability to drill down into the tra
 
 **3. Financial and Risk Assessment (Image C)**
 This final page links operational failure directly to business cost and revenue risk, highlighting the financial metrics and identifying which high-revenue routes are suffering the highest average delays.
-![Screenshot of the Revenue Performance Dashboard linking revenue and AVG delay by route.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Revenue-Performance.png)
+![Screenshot of the Revenue Performance Dashboard linking revenue and AVG delay by route.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Revenue%20Performance.png)
 
 📊 **DATASET FILE**
 
