@@ -8,6 +8,7 @@
 
 For a deep dive into the business challenge, technical methodology (DAX implementation), and actionable insights, please download the complete analysis document
 [Download the full PDF Case Study](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Case%20Study%20-%20AIRLINE%20OPERATIONS%20PERFORMANCE%20ANALYSIS.pdf)
+
 _Note: This PDF includes detailed data transformation steps and business recommendations._
 
 ***
