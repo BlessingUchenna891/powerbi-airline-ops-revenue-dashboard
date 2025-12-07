@@ -1,6 +1,7 @@
 # powerbi-airline-ops-revenue-dashboard
 
 ![Cover image showing the multi-page structure of the Power BI report.](https://github.com/BlessingUchenna891/powerbi-airline-ops-revenue-dashboard/blob/main/Cover%20Hero%20Shot.png)
+_Note: This PDF includes detailed data transformation steps and business recommendations._
 
 ***
 
